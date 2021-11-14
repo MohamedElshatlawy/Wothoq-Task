@@ -1,0 +1,9 @@
+{
+    "no_internet_connection": "No internet connection, please check you network and try again",
+    "internal_server_error": "Internal Server Error",
+    "product_details": "Product Details",
+    "addToCart": "Add To Cart",
+    "product_reviewt": "Product Review",
+    "product_added": "Product Added",
+    "ok": "OK"
+}
